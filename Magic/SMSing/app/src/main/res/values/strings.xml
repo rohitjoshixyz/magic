@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SMSing</string>
+    <string name="enter_your_message">Enter your message</string>
+    <string name="send">SEND</string>
+    <string name="to">To</string>
+    <string name="mynumber">8554801616</string>
+    <string name="hello">hello</string>
+    <string name="title_activity_inbox">InboxActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="inbox">Inbox</string>
+    <string name="go_to_inbox">Go to inbox</string>
+    <string name="to_add_a_custom_filter_such_as_your_personal_account_number_click_here">To add a custom filter such as your personal account number click here</string>
+    <string name="title_activity_custom_filter">CustomFilterActivity</string>
+</resources>

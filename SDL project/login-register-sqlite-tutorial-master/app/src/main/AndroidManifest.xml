@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.androidtutorialshub.loginregister">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/sinhagad_logo"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".activities.LoginActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name=".activities.NotesProvider"
+            android:authorities="com.androidtutorialshub.loginregister.activities.notesprovider"
+            android:exported="false" />
+
+        <activity
+            android:name=".activities.RegisterActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.UsersListActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".activities.Dashboard" />
+        <activity android:name=".activities.NotificationList" />
+        <activity android:name=".activities.EditorActivity" />
+        <activity
+            android:name=".activities.campus"
+            android:label="@string/title_activity_campus"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".activities.campus_connect" />
+        <activity android:name=".activities.facilities" />
+        <activity android:name=".activities.hangouts" />
+        <activity android:name=".activities.events" />
+        <activity android:name=".activities.history_and_trad" />
+        <activity android:name=".activities.bediNaan" />
+        <activity android:name=".activities.Lipton" />
+        <activity android:name=".activities.ccd"></activity>
+    </application>
+
+</manifest>

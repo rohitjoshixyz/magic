@@ -1,0 +1,80 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string name="app_name">SDL Project</string>
+    <string name="text_accounts">All Accounts</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_hello">Performed by:\nRohit Joshi T14 429</string>
+    <string name="text_title">SDL Mini Project 2017</string>
+    <string name="title_activity_dashboard">dashboard</string>
+
+    <string name="create_sample_data">Create sample</string>
+    <string name="delete_all_data">Delete All</string>
+    <string name="all_deleted">All notes deleted</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="edit_note">Edit note</string>
+    <string name="NEW_NOTE">New note</string>
+    <string name="NOTE_UPDATED">Note updated</string>
+    <string name="action_delete">Delete</string>
+    <string name="NOTE_DELETED">Note deleted</string>
+    <string name="NOTE">note</string>
+    <string name="enter_note_here">Enter notice here\nWrite your Designation followed by date and then your description :D</string>
+    <string name="title_activity_campus">Campus</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="para1">Holistic development of students and teachers is what we believe in and work for.
+We strive to achieve this by imbibing a unique value system, transparent work culture, excellent academic and physical environment conducive to learning, creativity and technology transfer. Our mandate is to generate, preserve and share knowledge for developing a vibrant Society.</string>
+    <string name="mission">MISSION</string>
+    <string name="para2"><![CDATA[Sinhgad Institutes have 12 campuses in and around Pune which are vibrant, environmental-friendly and surrounded by lush-green scenic beauty that makes it an ideal destination for Physical & Intellectual growth. It has modern amenities characteristic of a world-class educational establishment catering to academics and extra-curricular activities.]]></string>
+    <string name="para3"><![CDATA[The campuses have buildings with excellent residential facilities, cafeterias, 24x7 Wi-Fi connectivity, Central library, IT & Language Labs and Conference Halls with state-of-the art audio-visual equipment. The classrooms have LCD Projectors with Internet connectivity to aid acquiring knowledge. The sports and entertainment facilities include an Open Air Theatre, playing fields, jogging tracks and Swimming pools.]]></string>
+    <string name="para4"><![CDATA[The vast range of cultural, educational, and social activities available to Sinhgad Institutes students, faculty and staff fosters an environment to increase rational maturity and strength of character. On the campus, living & learning are so intimately intertwined that scholars are naturally molded to excel in their professional careers.]]></string>
+    <string name="campus_connect2">\n
+\nBridge the gap between industry and institute
+\nGrooming graduates to become ready for the industry
+\nExposure to latest cutting edge technology
+\nFeatures of Campus Connect:
+\nFaculty Development Programme
+\nTechnical lectures
+\nTechnical competitions / Quiz
+\nProjects to our UG and PG students
+\nSponsorship for technical events
+\nGuidance for research projects
+\nScholarship for toppers and girls students
+\nRewards for toppers (e.g. Direct offers to Toppers)
+\nEstablish strong bond with Industry so that both can stand by each other in times of difficulty.</string>
+
+    <string name="campus_connect1">The idea behind Campus Connect is to prepare graduates while at college, who are not only well equipped in their Disciplines, but also have the ability to integrate the learning across the foundation areas, to apply them in practical situations, and also have professional skills to effectively compete in todays market place, such as teamwork, project management, cross functional networking, effective communications.
+\n\n</string>
+    <string name="link"><a android:href='http://www.sinhgad.edu/\'>Our Website</a></string>
+    <string name="parag1"><![CDATA[In 1993 Prof. M. N. Navale an Entrepreneur with unmatched foresight & vision, laid the foundation stone of Sinhgad Institutes. He took over a Polytechnic Institute (Sou Venutai Chavan Polytechnic) which was not doing so well and transformed it into a class of its own. Alongside he started one division of MBA under Sinhgad Institute of Management & then there was no stopping. In a short span of two decades had ten divisions of MBA. Sinhgad Institutes soon became a massive far flung Educational Network with a distinct presence in and around Pune, including Navi Mumbai, Solapur and Maharashtra in General. As of now, it has 107 plus Institutes and around 70,000 students pursuing various education programmes from K.G. to Ph.D.]]></string>
+    <string name="parag2">The many Schools of Sinhgad Institutes have become a brand in themselves with stunning facilities and thousands of pupils. Every campus has a school or two to its credit. Most of them run the CBSE programme while the others that of the state Government. The Pickup and drop facility is a winning feature of the school management.
+\n\n
+The Sinhgad group of learning Organisations, have generated initiatives and thought leaders who have shaped the learning minds into capable business leaders by way of its core values of positive contribution to the good of the society. The class rooms become a testing ground, for skills acquired and filter the viable into toughest competencies that can last for a life time.
+\n\n
+The founder’s vision of imparting value base quality education in all the spheres of higher learning, has become a palpable reality. The Educational courses range from the basic to the most advanced and demanding. It covers disciplines like Pure Sciences and applied, Architecture, Medicine, Law, Engineering, Pharmacy, Dental, BBA and the like.
+\n\n
+An ambitious project of Medical College with a 500 bedded capacity Hospital, in the name of Prof Navale’s mother “Kashibai Navale” is fully functional. It is duly recognized by the Medical Council of India and affiliated to the Pune University.It is dispensing quality treatment to all for free.
+\n\n
+Sinhgad Institutes also have a select array of vocational courses like Nursing, Hospitality and Aviation, Gemology to name a few.
+\n\n
+Sinhgad Institutes are spread over 12 fully equipped sprawling, aesthetically landscaped campuses.
+\n\n
+Every constituent Institute of the Sinhgad Institutes Education conglomerate is a competitive independent entity and yet connected, having an Event Calendar of its own.
+\n\n
+Intensive planning of Initiatives is ongoing to make the Sinhgad Institutes, an incomparable force to reckon with.</string>
+</resources>

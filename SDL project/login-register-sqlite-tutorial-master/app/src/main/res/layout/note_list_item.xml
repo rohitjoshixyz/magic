@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:backgroundTint="@android:color/holo_green_light"
+    android:elevation="0dp"
+    android:gravity="center_vertical"
+    android:padding="10dp"
+    tools:elevation="10dp">
+
+
+
+    <ImageView
+        android:id="@+id/imageDocIcon"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:contentDescription="@string/NOTE"
+        android:src="@drawable/ic_image_note" />
+
+
+    <TextView
+        android:id="@+id/tvNote"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="4dp"
+        android:layout_toEndOf="@+id/imageDocIcon"
+        android:layout_toRightOf="@+id/imageDocIcon"
+
+        android:text="Dummy Text"
+        android:textColor="@color/colorText"
+        android:textSize="18sp"
+        tools:textColorHint="?android:attr/textColorHint" />
+
+</RelativeLayout>

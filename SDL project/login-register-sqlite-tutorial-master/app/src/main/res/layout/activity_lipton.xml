@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    android:padding="15dp"
+    tools:context="com.androidtutorialshub.loginregister.activities.Lipton">
+
+    <ImageView
+        android:id="@+id/iv"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/res4" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/iv"
+        android:text="Open cafe.Nice place to spend time with friends. It is situated at Sinhgad campus,Vadgaon, Pune\n\nIt's best place in campus too meet friends lots of memories. lipton kii chay n samosa.....\n\nHot Beverages
+\nCoffee $2.90
+\nTea $2.55
+\nHot Chocolate $2.90
+\nPeppermint Hot Chocolate $3.70
+\nCold Beverages
+\nFountain or Bottled Juice/Pop/Milk $3.40
+\nBottled Water $3.40/4.40
+"
+        android:textColor="@android:color/holo_red_dark" />
+
+
+</RelativeLayout>

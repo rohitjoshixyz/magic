@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+        <item
+            android:id="@+id/campus_connect"
+            android:icon="@drawable/ic_supervisor_account_black_24dp"
+            android:title="Campus Connect" />
+    <item
+        android:id="@+id/facilities"
+        android:icon="@drawable/ic_wifi_tethering_black_24dp"
+        android:title="Facilities" />
+    <item
+        android:id="@+id/events"
+        android:icon="@drawable/ic_event_note_black_24dp"
+        android:title="Events" />
+    <item
+        android:id="@+id/history"
+        android:icon="@drawable/ic_globe"
+        android:title="History and Traditions" />
+
+    <item
+        android:id="@+id/Hangouts"
+        android:icon="@drawable/ic_restaurant_black_24dp"
+        android:title="Hangouts" />
+
+
+
+
+
+
+</menu>

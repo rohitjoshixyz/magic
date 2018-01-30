@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.androidtutorialshub.loginregister.activities.bediNaan"
+    android:background="@drawable/back"
+    android:padding="15dp">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/res1"
+        android:id="@+id/iv"
+        />
+<ScrollView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/iv">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="A very popular food chain known for their parathas. I haven't been to this place but have ordered online many times from this particular branch. (Not using Zomato)
+The parathas have been delivered so hot every single time that I actually had to struggle with the foil to unwrap it - that's how hot the parathas were.
+Some of the must try parathas are - Italian paratha, methi cheese corn garlic paratha and toofani paratha.
+They deliver parathas with Chutney, pickle, curd and cabbage salad.
+One paratha is enough for 1 person. Good quantity and good quality. Will definitely recommend this place if you like parathas."
+
+        android:textColor="@android:color/holo_red_dark"/>
+</ScrollView>
+</RelativeLayout>
